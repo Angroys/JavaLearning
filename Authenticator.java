@@ -18,6 +18,7 @@ public class Authenticator {
             JOptionPane.showMessageDialog(null, "You're in."); 
         } else {
             JOptionPane.showMessageDialog(null, "You're " + username + "."); 
+            JOptionPane.showMessageDialog(null, "You're " + username + "." + "GL"); 
         }
     } 
 }

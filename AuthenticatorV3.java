@@ -14,7 +14,6 @@ public class AuthenticatorV3 {
             estigay = JOptionPane.showInputDialog(null, "Hui, nu inteligent esti, pune raspunsul adevarat");
 
         }
-
     
     }
     
